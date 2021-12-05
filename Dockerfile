@@ -1,4 +1,4 @@
-FROM dragonpower84/kai84-pro:kai844
+FROM ghcr.io/dragonpower84/kai8407:latest
 
 WORKDIR /usr/src/mrott
 RUN chmod 777 /usr/src/mtott
